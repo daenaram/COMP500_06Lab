@@ -13,3 +13,7 @@ int main(){
         printf("%d is odd.", number);
     }
 }
+
+// result 
+//Please enter a whole number:
+// 3 is odd.
