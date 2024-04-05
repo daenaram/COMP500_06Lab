@@ -10,3 +10,15 @@ int main(){
         printf("%c\n", inputWord[i]);
     }
 }
+
+// result 
+/*
+Input a word:
+e
+n
+c
+r
+y
+p
+t
+*/
